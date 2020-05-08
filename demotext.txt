@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 abcdefghij
 
 
@@ -12,5 +13,3 @@ vvvvvvvvvvvvvvvvvvvv
 
 
 
-cccsfffcscsf
-dsccsc
